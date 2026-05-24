@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "ontology",
+  "version": "1.0.0",
+  "description": "Shared agent memory as a typed knowledge graph. A local, structured notebook that agents read and write to remember facts across sessions and across tools.",
+  "author": {
+    "name": "Mr.RedHat",
+    "email": "mrredhat317@gmail.com",
+    "url": "https://github.com/mr-redhat-fb"
+  },
+  "license": "MIT",
+  "keywords": ["memory", "knowledge-graph", "agent-state", "ontology", "cross-skill"]
+}
