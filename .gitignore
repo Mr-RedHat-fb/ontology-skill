@@ -5,4 +5,4 @@ __pycache__/
 *.pyc
 .claude/settings.local.json
 .directory
-fix-layout.sh
+*fix-layout.sh
